@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Wiroon</title>
+    <link>https://wiroonb.github.io/Wiroon_Website/post/</link>
+    <description>Recent content in Projects on Wiroon</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate><atom:link href="https://wiroonb.github.io/Wiroon_Website/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Red Wine Project</title>
+      <link>https://wiroonb.github.io/Wiroon_Website/post/project-1/</link>
+      <pubDate>Thu, 24 Jun 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://wiroonb.github.io/Wiroon_Website/post/project-1/</guid>
+      <description>Red Wine Project(Python) Data science project completed using Pandas, Seaborn, Matplotlib as well as SKLearn to create different models and predict.
+Overview Problem Statement
+Given data of red wine which contains differrent chemical measurements of wine ( Fixed acidity, Volatile acidity, Citric acid, Residual sugar, Free sulfur dioxide, Total sulfur dioxide, Density, pH, Sulphates, Alcohol, and quality rating from 1 to 8. Can we predict whether a wine is a good or bad wine?</description>
+    </item>
+    
+    <item>
+      <title>Don&#39;t Get Kicked</title>
+      <link>https://wiroonb.github.io/Wiroon_Website/post/project-2/</link>
+      <pubDate>Wed, 23 Jun 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://wiroonb.github.io/Wiroon_Website/post/project-2/</guid>
+      <description>Don&amp;rsquo;t Get Kicked (Kaggle-R) Data science project from Kaggle completed using R as part of school project.
+Overview Problem Statement One of the biggest challenges of an auto dealership purchasing a used car at an auto auction is the risk of that the vehicle might have serious issues that prevent it from being sold to customers. These unfortunate purchases are called &amp;ldquo;kicks.&amp;rdquo; Kicked cars can be very costly to dealers after transportation cost, throw-away repair work, and market losses in reselling the vehicle.</description>
+    </item>
+    
+    <item>
+      <title>Sales Analysis</title>
+      <link>https://wiroonb.github.io/Wiroon_Website/post/project-3/</link>
+      <pubDate>Tue, 22 Jun 2021 11:13:32 -0400</pubDate>
+      
+      <guid>https://wiroonb.github.io/Wiroon_Website/post/project-3/</guid>
+      <description>Sales Analysis(Python) Data analysis project completed using Pandas and Matplotlib to analyze and answer business questions about 12 months worth of sales data.
+Overview The data contains hundreds of thousands of electronics store purchases broken down by month, product type, cost, purchase address, etc. Differrent tasks are completed as following
+Data Cleaning Process
+ Drop NaN values from DataFrame Removing rows based on a condition Change the type of columns (to_numeric, to_datetime, astype)  Data Exploration</description>
+    </item>
+    
+    <item>
+      <title>Wine Exploratory and Predictive Analysis</title>
+      <link>https://wiroonb.github.io/Wiroon_Website/post/project-4/</link>
+      <pubDate>Mon, 21 Jun 2021 11:14:48 -0400</pubDate>
+      
+      <guid>https://wiroonb.github.io/Wiroon_Website/post/project-4/</guid>
+      <description>Wine Exploratory and Predictive Analysis(R) Data science project completed using R as part of school project.
+Overview We are working with a dataset of more than 6000 different wines, including both red and white wines. For those interested in wine and particularly wine consumption, our project will help wine aficionados make informed decisions when choosing wine and help understand factors that help explain qualitative wine levels. By converting the numerical qualitative field to categorical we can than make distinctions between higher and lower quality wines as well as see variances between red and white based on quality.</description>
+    </item>
+    
+    <item>
+      <title>Covid-19 Data Exploration</title>
+      <link>https://wiroonb.github.io/Wiroon_Website/post/project-5/</link>
+      <pubDate>Sun, 20 Jun 2021 11:15:58 -0400</pubDate>
+      
+      <guid>https://wiroonb.github.io/Wiroon_Website/post/project-5/</guid>
+      <description>Covid-19 Data Exploration(SQL) Real world data exploration completed using SQL.
+Overview The datasets contain thousands of Covid-19 cases, deaths and vaccinations from different countries all over the world.
+These are different tasks that are completed:
+ Total Cases vs Total Deaths shows the likelihood of dying if you contract covid in your country. Total Cases vs Population shows what percentage of population got covid. Countries with Highest Infection Rate compared to Population Countries with Highest Death Count per Population Continents with the Highest Death Count per Population Total Population vs Vaccinations shows percentage of population that has received at least one dose of covid vaccicne.</description>
+    </item>
+    
+    <item>
+      <title>NashvilleHousing - Data Cleaning</title>
+      <link>https://wiroonb.github.io/Wiroon_Website/post/project-6/</link>
+      <pubDate>Sat, 19 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://wiroonb.github.io/Wiroon_Website/post/project-6/</guid>
+      <description>NashvilleHousing - Data Cleaning(SQL) Data cleaning process using SQL
+Overview This data contains home value data for the hot Nashville market.
+These are the tasks used to during data cleaning process:
+ Standardize Date Format Populate Property Address Data Breaking out Address into Individual Columns (Address, City, State) Change Y and N to Yes and No in &amp;ldquo;Sold as Vacant&amp;rdquo; field Remove Duplicates Delete Unused Columns  Note Link to Dataset: https://www.</description>
+    </item>
+    
+    <item>
+      <title>Tableau Visualizations</title>
+      <link>https://wiroonb.github.io/Wiroon_Website/post/project-7/</link>
+      <pubDate>Fri, 18 Jun 2021 11:25:05 -0400</pubDate>
+      
+      <guid>https://wiroonb.github.io/Wiroon_Website/post/project-7/</guid>
+      <description>Tableau Visualizations Covid-19 This dashboard is part of the Covid-19 Data Exploration where I used some of the queries to create visualizations in Tableau. Here are the graphs:
+ Bar graph of total death count per continent. Line graph of percent of population infected per country with forecast. Map of percent of population infected per country.  Visualization
+ Project Management This dashboard shows total budget, total expense, duration and completion of different projects.</description>
+    </item>
+    
+  </channel>
+</rss>
